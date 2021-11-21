@@ -27,37 +27,5 @@
             "description": "A new beer style from the North American continent. Black as a porter and hoppy as an IPA. Called a Cascadian dark ale or a Black IPA. The term “Cascadia” comes from the Cascade Mountain Range, which includes the area around British Columbia, Washington, Oregon, western Idaho and northern California. The taste is a mix of hops notes as: resin, pines , citrus and balanced against the dark malts giving notes such as chocolate and mild coffee. With carefully selected powerful hop varieties from the Americas, added dark malts, this beer achieves a delicious balance between hop aroma and malt fullness. Fermented at a temperature that allows the yeast to form fruity esters which provides a soft balance between the dark malts and hops. Should be enjoyed at 10-12°C, (50-54°F) in a Munkebo glass that highlights the aroma of American hops.",
             "related": "andre relaterende produkter"
         },
-    
-    
-    
-        {
-            "id": 4,
-            "title": "Ragnarok",
-            "date": "April 07, 2021 3:32:21 AM",
-            "alcoholType": "beer",
-            "description": "This Strong English Porter is brewed with lots of dark malts which gives the porter its dark brown color and deep intense flavor. The dark roasted malts provide a nice aftertaste of chocolate and coffee. An authentic porter from the time at a British ports pub in the 1800s, way before yeast was cultivated and purified. Fermented with a unique blend of ale yeasts in addition to with various wild brettanomyces yeast strains and fermented slightly warmer to mimic an old-fashioned fermentation in open vats. Together, they provide a wonderful taste with an aroma of stables, horse and leather. Should be served at 8-10 degrees Celsius (46-50°F), which will intensify the flavor of the fruitiness and malt sweetness. The aroma from the unique blend of different types of yeast, become more dominant as the beer warms up and fills the glass with scents of stable and leather.",
-            "related": "andre relaterende produkter"
-        },
-    
-    
-    
-        {
-            "id": 5,
-            "title": "Valhal",
-            "date": "April 07, 2021 3:32:21 AM",
-            "alcoholType": "beer",
-            "description": "This Strong English Porter is brewed with lots of dark malts which gives the porter its dark brown color and deep intense flavor. The dark roasted malts provide a nice aftertaste of chocolate and coffee. An authentic porter from the time at a British ports pub in the 1800s, way before yeast was cultivated and purified. Fermented with a unique blend of ale yeasts in addition to with various wild brettanomyces yeast strains and fermented slightly warmer to mimic an old-fashioned fermentation in open vats. Together, they provide a wonderful taste with an aroma of stables, horse and leather. Should be served at 8-10 degrees Celsius (46-50°F), which will intensify the flavor of the fruitiness and malt sweetness. The aroma from the unique blend of different types of yeast, become more dominant as the beer warms up and fills the glass with scents of stable and leather.",
-            "related": "andre relaterende produkter"
-        },
-    
-    
-        {
-            "id": 6,
-            "title": "Valhal",
-            "date": "April 07, 2021 3:32:21 AM",
-            "alcoholType": "beer",
-            "description": "Single Hop Comet Pale Ale is brewed in an experiment with Hallertauer Comet hops, which gives a delicious aroma and taste of bitterness, coniferous forest and citrus. Brewed as an American Pale Ale with a bright and light malt based, fermented with an American yeast, at a temperature which provides ease fruit esters during fermentation as balance for hops and malt profile.",
-            "related": "andre relaterende produkter"
-        },
     ]
 }
