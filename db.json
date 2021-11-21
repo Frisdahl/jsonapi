@@ -1,31 +1,30 @@
 {
-    "products":[
-        {
-            "id": 1,
-            "title": "Lowland Bogs Peat Smoked Dark Pils",
-            "date": "April 07, 2021 3:32:21 AM",
-            "alcoholType": "beer",
-            "description": "dette er den lange beskrivende tekst",
-            "related": "andre relaterende produkter"
-        },
-    
-        {
-            "id": 2,
-            "title": "Balder, Agave Gluten Free IPA",
-            "date": "April 07, 2021 3:32:21 AM",
-            "alcoholType": "beer",
-            "description": "Gluten Free IPA. Brewed with lots of bitterness using American hops, like Cascade, Nugget and Simcoe. Dryhopped the hell out of i",
-            "related": "andre relaterende produkter"
-        },
-    
-    
-        {
-            "id": 3,
-            "title": "Gleipner",
-            "date": "April 07, 2021 3:32:21 AM",
-            "alcoholType": "beer",
-            "description": "A new beer style from the North American continent. Black as a porter and hoppy as an IPA. Called a Cascadian dark ale or a Black IPA. The term “Cascadia” comes from the Cascade Mountain Range, which includes the area around British Columbia, Washington, Oregon, western Idaho and northern California. The taste is a mix of hops notes as: resin, pines , citrus and balanced against the dark malts giving notes such as chocolate and mild coffee. With carefully selected powerful hop varieties from the Americas, added dark malts, this beer achieves a delicious balance between hop aroma and malt fullness. Fermented at a temperature that allows the yeast to form fruity esters which provides a soft balance between the dark malts and hops. Should be enjoyed at 10-12°C, (50-54°F) in a Munkebo glass that highlights the aroma of American hops.",
-            "related": "andre relaterende produkter"
-        },
-    ]
+	"products": [{
+			"id": 1,
+			"title": "Lowland Bogs Peat Smoked Dark Pils",
+			"date": "April 07, 2021 3:32:21 AM",
+			"alcoholType": "beer",
+			"description": "dette er den lange beskrivende tekst",
+			"related": "andre relaterende produkter"
+		},
+
+		{
+			"id": 2,
+			"title": "Balder, Agave Gluten Free IPA",
+			"date": "April 07, 2021 3:32:21 AM",
+			"alcoholType": "beer",
+			"description": "Gluten Free IPA. Brewed with lots of bitterness using American hops, like Cascade, Nugget and Simcoe. Dryhopped the hell out of i",
+			"related": "andre relaterende produkter"
+		},
+
+
+		{
+			"id": 3,
+			"title": "Gleipner",
+			"date": "April 07, 2021 3:32:21 AM",
+			"alcoholType": "beer",
+			"description": "A new beer style from the North American continent. Black as a porter and hoppy as an IPA. Called a Cascadian dark ale or a Black IPA. The term “Cascadia” comes from the Cascade Mountain Range, which includes the area around British Columbia, Washington, Oregon, western Idaho and northern California. The taste is a mix of hops notes as: resin, pines , citrus and balanced against the dark malts giving notes such as chocolate and mild coffee. With carefully selected powerful hop varieties from the Americas, added dark malts, this beer achieves a delicious balance between hop aroma and malt fullness. Fermented at a temperature that allows the yeast to form fruity esters which provides a soft balance between the dark malts and hops. Should be enjoyed at 10-12°C, (50-54°F) in a Munkebo glass that highlights the aroma of American hops.",
+			"related": "andre relaterende produkter"
+		}
+	]
 }
