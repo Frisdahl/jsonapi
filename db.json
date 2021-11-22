@@ -39,7 +39,7 @@
             "date": "April 07, 2021 3:32:21 AM",
             "alcoholType": "beer",
             "description": "This Strong English Porter is brewed with lots of dark malts which gives the porter its dark brown color and deep intense flavor. The dark roasted malts provide a nice aftertaste of chocolate and coffee. An authentic porter from the time at a British ports pub in the 1800s, way before yeast was cultivated and purified. Fermented with a unique blend of ale yeasts in addition to with various wild brettanomyces yeast strains and fermented slightly warmer to mimic an old-fashioned fermentation in open vats. Together, they provide a wonderful taste with an aroma of stables, horse and leather. Should be served at 8-10 degrees Celsius (46-50°F), which will intensify the flavor of the fruitiness and malt sweetness. The aroma from the unique blend of different types of yeast, become more dominant as the beer warms up and fills the glass with scents of stable and leather.",
-            
+	    "img": "https://i.imgur.com/jTJwg5R.jpg",
 	    "related": "andre relaterende produkter"
         },
     
@@ -51,7 +51,8 @@
             "date": "April 07, 2021 3:32:21 AM",
             "alcoholType": "beer",
             "description": "This Strong English Porter is brewed with lots of dark malts which gives the porter its dark brown color and deep intense flavor. The dark roasted malts provide a nice aftertaste of chocolate and coffee. An authentic porter from the time at a British ports pub in the 1800s, way before yeast was cultivated and purified. Fermented with a unique blend of ale yeasts in addition to with various wild brettanomyces yeast strains and fermented slightly warmer to mimic an old-fashioned fermentation in open vats. Together, they provide a wonderful taste with an aroma of stables, horse and leather. Should be served at 8-10 degrees Celsius (46-50°F), which will intensify the flavor of the fruitiness and malt sweetness. The aroma from the unique blend of different types of yeast, become more dominant as the beer warms up and fills the glass with scents of stable and leather.",
-            "related": "andre relaterende produkter"
+	    "img": "https://i.imgur.com/jTJwg5R.jpg",
+	    "related": "andre relaterende produkter"
         },
     
     
@@ -61,6 +62,7 @@
             "date": "April 07, 2021 3:32:21 AM",
             "alcoholType": "beer",
             "description": "Single Hop Comet Pale Ale is brewed in an experiment with Hallertauer Comet hops, which gives a delicious aroma and taste of bitterness, coniferous forest and citrus. Brewed as an American Pale Ale with a bright and light malt based, fermented with an American yeast, at a temperature which provides ease fruit esters during fermentation as balance for hops and malt profile.",
+	    "img": "https://i.imgur.com/jTJwg5R.jpg",
 	    "related": "andre relaterende produkter"
         }
 	    ]
