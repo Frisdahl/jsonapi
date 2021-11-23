@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Lowland Bogs Peat Smoked Dark Pils",
-            "date": "April 07, 2021 3:32:21 AM",
+            "date": "04-07/2021",
             "alcoholType": "øl",
             "description": "dette er den lange beskrivende tekst",
 	    "img": "https://i.imgur.com/fS8tkaa.jpeg",
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "title": "Balder, Agave Gluten Free IPA",
-            "date": "April 07, 2021 3:32:21 AM",
+            "date": "01-04/2021",
             "alcoholType": "øl",
             "description": "Glutenfri IPA. Brygget med masser af bitterhed ved hjælp af amerikansk humle, som Cascade, Nugget og Simcoe. Tørhoppede fanden ud af det",
 	    "img": "https://i.imgur.com/jTJwg5R.jpg",
@@ -24,7 +24,7 @@
         {
             "id": 3,
             "title": "Gleipner",
-            "date": "April 07, 2021 3:32:21 AM",
+            "date": "12-03/2021",
             "alcoholType": "øl",
             "description": "En ny ølstil fra det nordamerikanske kontinent. Sort som en porter og humlet som en IPA. Kaldes en Cascadian dark ale eller en Black IPA. Udtrykket Cascadia kommer fra Cascade Mountain Range, som omfatter området omkring British Columbia, Washington, Oregon, det vestlige Idaho og det nordlige Californien. Smagen er en blanding af humle noter som: harpiks, fyrretræer, citrus og afbalanceret mod den mørke malt, der giver noter som chokolade og mild kaffe. Med nøje udvalgte kraftfulde humlesorter fra Amerika, tilsat mørk malt, opnår denne øl en lækker balance mellem humlearoma og maltfylde. Fermenteret ved en temperatur, der tillader gæren at danne frugtagtige estere, som giver en blød balance mellem den mørke malt og humle. Bør nydes ved 10-12°C, (50-54°F) i et Munkebo-glas, der fremhæver aromaen af amerikansk humle.",
 	    "img": "https://i.imgur.com/cG12fHh.jpg",
@@ -36,7 +36,7 @@
         {
             "id": 4,
             "title": "Ragnarok",
-            "date": "April 07, 2021 3:32:21 AM",
+            "date": "20-08/2021",
             "alcoholType": "øl",
             "description": "Når man låner det nordiske udtryk for verdens ende, er Ragnarok lige dele Strong Ale, Scottish Ale og Viking metal-koncert. Mørk. Smokey. Lidt til den beskidte* side. Denne frugtbaserede gæring starter med en kompleks syrlig kant og bløder over tid.",
 	    "img": "https://i.imgur.com/agjAsb0.jpg",
@@ -48,7 +48,7 @@
         {
             "id": 5,
             "title": "Valhal",
-            "date": "April 07, 2021 3:32:21 AM",
+            "date": "12-10/2021",
             "alcoholType": "øl",
             "description": "Denne Strong English Porter er brygget med masser af mørk malt, som giver porteren sin mørkebrune farve og dybe intense smag. De mørkristede malte giver en dejlig eftersmag af chokolade og kaffe. En autentisk portør fra tiden på en britisk havnepub i 1800-tallet, langt før gæren blev dyrket og renset. Fermenteret med en unik blanding af ale-gær foruden med forskellige vilde brettanomyces-gærstammer og gæret lidt varmere for at efterligne en gammeldags gæring i åbne kar. Sammen giver de en skøn smag med en aroma af stalde, hest og læder. Bør serveres ved 8-10 grader Celsius (46-50°F), hvilket vil intensivere smagen af ​​frugtighed og maltsødme. Aromaen fra den unikke blanding af forskellige gærtyper, bliver mere dominerende i takt med at øllet varmes op og fylder glasset med dufte af stald og læder.",
 	    "img": "https://i.imgur.com/hMySXS3.jpg",
@@ -59,7 +59,7 @@
         {
             "id": 6,
             "title": "Single Hop Comet Pale Ale",
-            "date": "April 07, 2021 3:32:21 AM",
+            "date": "12-11/2021",
             "alcoholType": "øl",
             "description": "Single Hop Comet Pale Ale er brygget i et forsøg med Hallertauer Comet humle, som giver en lækker aroma og smag af bitterhed, nåleskov og citrus. Brygget som en American Pale Ale med en lys og let maltbaseret, fermenteret med en amerikansk gær, ved en temperatur, der giver let frugtestere under gæringen som balance for humle og maltprofil.",
 	    "img": "https://i.imgur.com/2nCWB0D.jpg",
