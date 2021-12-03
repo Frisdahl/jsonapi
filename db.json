@@ -7,7 +7,7 @@
             "alcoholType": "øl",
             "description": "dette er den lange beskrivende tekst",
 	    "img": "https://i.imgur.com/ikTBPik.jpg",
-	    "smallimg": "https://i.imgur.com/jdLv1Gy.jpg",
+	    "smallImg": "https://i.imgur.com/jdLv1Gy.jpg",
             "related": "andre relaterende produkter"
         },
     
@@ -18,7 +18,7 @@
             "alcoholType": "øl",
             "description": "Glutenfri IPA. Brygget med masser af bitterhed ved hjælp af amerikansk humle, som Cascade, Nugget og Simcoe. Tørhoppede fanden ud af det",
 	    "img": "https://i.imgur.com/McFKLMH.jpg",
-	    "smallimg": "https://i.imgur.com/E0UHQrX.jpg",
+	    "smallImg": "https://i.imgur.com/E0UHQrX.jpg",
             "related": "andre relaterende produkter"
         },
     
@@ -30,7 +30,7 @@
             "alcoholType": "øl",
             "description": "En ny ølstil fra det nordamerikanske kontinent. Sort som en porter og humlet som en IPA. Kaldes en Cascadian dark ale eller en Black IPA. Udtrykket Cascadia kommer fra Cascade Mountain Range, som omfatter området omkring British Columbia, Washington, Oregon, det vestlige Idaho og det nordlige Californien.",
 	    "img": "https://i.imgur.com/WcRAH4A.jpg",
-	    "smallimg": "https://i.imgur.com/l1Cayoy.jpg",
+	    "smallImg": "https://i.imgur.com/l1Cayoy.jpg",
 	    "related": "andre relaterende produkter"
         },
     
@@ -43,7 +43,7 @@
             "alcoholType": "øl",
             "description": "Når man låner det nordiske udtryk for verdens ende, er Ragnarok lige dele Strong Ale, Scottish Ale og Viking metal-koncert. Mørk. Smokey. Lidt til den beskidte* side. Denne frugtbaserede gæring starter med en kompleks syrlig kant og bløder over tid.",
 	    "img": "https://i.imgur.com/AeS8rY4.jpg",
-	    "smallimg": "https://i.imgur.com/4QAFFlm.jpg",
+	    "smallImg": "https://i.imgur.com/4QAFFlm.jpg",
 	    "related": "andre relaterende produkter"
         },
     
@@ -56,7 +56,7 @@
             "alcoholType": "Gin",
             "description": "Denne Strong English Porter er brygget med masser af mørk malt, som giver porteren sin mørkebrune farve og dybe intense smag. De mørkristede malte giver en dejlig eftersmag af chokolade og kaffe. En autentisk portør fra tiden på en britisk havnepub i 1800-tallet, langt før gæren blev dyrket og renset.",
 	    "img": "https://i.imgur.com/rRjprQV.jpg",
-	    "smallimg": "https://i.imgur.com/m7Z3nuD.jpg",
+	    "smallImg": "https://i.imgur.com/m7Z3nuD.jpg",
 	    "related": "andre relaterende produkter"
         },
     
@@ -68,7 +68,7 @@
             "alcoholType": "øl",
             "description": "Single Hop Comet Pale Ale er brygget i et forsøg med Hallertauer Comet humle, som giver en lækker aroma og smag af bitterhed, nåleskov og citrus. Brygget som en American Pale Ale med en lys og let maltbaseret, fermenteret med en amerikansk gær, ved en temperatur, der giver let frugtestere under gæringen som balance for humle og maltprofil.",
 	    "img": "https://i.imgur.com/FowX1Od.jpg",
-	    "smallimg": "https://i.imgur.com/EMk9EkV.jpg",
+	    "smallImg": "https://i.imgur.com/EMk9EkV.jpg",
 	    "related": "andre relaterende produkter"
         }
 	    ]
